@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Radu and I'm a Junior Software eEngineer, from Romania.</h2>
+<h2 align="left">Hi 👋! My name is Radu and I'm a Junior Software Engineer, from Romania.</h2>
 
 ###
 
