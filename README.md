@@ -30,40 +30,11 @@ Working for a new day, not for money.
 
 Learning Vue.js & React.
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/wdymradu/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wdymradu&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
-
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdymradu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdymradu&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdymradu&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
