@@ -1,39 +1,122 @@
-<h2 align="left">Hi 👋! My name is Radu and I'm a Junior Software Engineer, from Romania.</h2>
+# RADU
 
-###
+```typescript
+const profile = {
+  name: "RADU",
+  bio: "Web Designer & UI/UX Junior Developer.",
+  currentWork: "Working for a new day, not for money.",
+  learning: "Learning Vue.js & React.",
+  skills: [
+    "Next.js",
+    "Tailwind",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "MongoDB",
+    "MySQL",
+    "SQLite",
+    "Docker",
+    "JavaScript",
+    "TypeScript"
+  ],
+}
+```
 
+## 🔭 I'm currently working on
+
+Working for a new day, not for money.
+
+## 🌱 I'm currently learning
+
+Learning Vue.js & React.
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/wdymradu/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wdymradu&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wdymradu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdymradu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+## 🔝 Most Used Languages
 
+<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdymradu&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-###
+## 🔥 Contribution Streak
 
+<!-- ⚠️ Important: Replace 'wdymradu' with your actual GitHub username in the URL below -->
 <div align="center">
-  <a href="https://www.youtube.com/@ofradu/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/1383126104327585963" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="dot@ofradu.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdymradu&theme=dark&hide_border=false" />
 </div>
 
+## 💻 Tech Stack
 
+```json
+{
+  "frontend": [
+    "Next.js",
+    "Tailwind",
+    "HTML5",
+    "CSS3"
+  ],
+  "backend": [
+    "Node.js",
+    "MongoDB",
+    "MySQL",
+    "SQLite"
+  ],
+  "devops": [
+    "Docker"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "wdymradu",
+  website: "https://ofradu.xyz",
+  youtube: "ofradu",
+}
+```
+
+<div>
+<a href="https://ofradu.xyz"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://github.com/wdymradu"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://youtube.com/c/ofradu"><img src="https://img.shields.io/badge/youtube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "dot@ofradu.xyz",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
